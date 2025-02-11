@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/jniRsbr.png)
 
-Eu sou Daniel e Daniel sou eu! Nasci na festiva cidade de Santa Cruz do Sul, mas desde os dois meses de idade moro em Pelotas, o que me torna um pelotense por opção.  Desde muito cedo (graças a profissão de meu pai e aos livros aqui de casa) afeiçoado por tecnologia e ciências. Resultado dessa paixão foi rumo profissional que segui, afinal a ciência e a tecnologia é o kernel da Engenharia Elétrica.
+Eu sou Daniel e Daniel sou eu! Nasci na festiva cidade de Santa Cruz do Sul, mas desde os dois meses de idade moro em Pelotas, o que me torna um pelotense por opção. Desde muito cedo (graças a profissão de meu pai e aos livros aqui de casa) afeiçoado por tecnologia e ciências, como resultado dessa paixão foi rumo profissional e estudos que segui, afinal a ciência e a tecnologia é kernel da area de eletrônica e computação.
 
 
 
